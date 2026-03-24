@@ -1,0 +1,11 @@
+rag: mistral-small:24b
+evaluation: qwen2.5:14b
+test set generator: llama3-groq-tool-use
+strategy: dynamic similarity cutoff
+{'faithfulness': 0.9750, 'answer_relevancy': 0.8847, 'context_recall': 0.9306, 'context_precision': 0.8718}
+
+
+
+
+
+
