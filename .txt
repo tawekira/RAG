@@ -1,8 +1,17 @@
 rag: mistral-small:24b
 evaluation: qwen2.5:14b
 test set generator: llama3-groq-tool-use
+
 strategy: dynamic similarity cutoff
 {'faithfulness': 0.9750, 'answer_relevancy': 0.8847, 'context_recall': 0.9306, 'context_precision': 0.8718}
+
+strategy: dynamic similarity cutoff + reranker
+{'faithfulness': 0.8924, 'answer_relevancy': 0.8363, 'context_recall': 0.9583, 'context_precision': 0.8441}
+strategy: dynamic similarity cutoff
+{'faithfulness': 0.9137, 'answer_relevancy': 0.9210, 'context_recall': 0.9583, 'context_precision': 0.9420}
+
+
+
 
 
 
