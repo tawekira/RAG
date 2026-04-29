@@ -1,0 +1,33 @@
+Question,Response,Page Number
+"Which specific WHO region saw its 2021 HALE for 'Both sexes' drop to a level lower than its recorded HALE in the year 2000, according to Figure 1.1?","The specific WHO region that saw its 2021 HALE for 'Both sexes' drop to a level lower than its recorded HALE in the year 2000 is the **African Region**. According to Figure 1.1, the HALE for 'Both sexes' in the African Region in 2021 was 56.6 years, which is lower than its HALE in 2000, recorded at 57.0 years [Page 16].","[16, 22, 24]"
+"In Figure 1.2, which specific cause provided a HALE gain through 'morbidity' reduction for the 70+ age group between 2000 and 2019?","In Figure 1.2, there was no specific cause that provided a HALE gain through 'morbidity' reduction for the 70+ age group between 2000 and 2019. Instead, increasing mortality linked to Alzheimer disease and other dementias resulted in a slight HALE loss of 0.04 years for this age group during that period [Page 17].","[17, 18, 19]"
+"Which WHO region is the only one where 'Collective violence and legal intervention' was a top-five cause of HALE loss (2000-2019), and which age group was most affected?","The only WHO region where ""Collective violence and legal intervention"" was a top-five cause of HALE loss between 2000 and 2019 is the **Eastern Mediterranean Region**. The age group most affected was those aged **5-29 years**, accounting for over 90% of the contribution to the HALE gap from this cause [Page 24].","[24, 18, 17]"
+"Using Figure 1.4, what are the three numerical values used to calculate that mental health morbidity wiped out 80% of NCD mortality gains globally (2019-2021)?","To calculate that mental health morbidity wiped out 80% of NCD mortality gains globally between 2019 and 2021, the three numerical values are:
+
+1. **HALE loss due to COVID-19 morbidity**: 0.13 years
+2. **HALE loss due to anxiety disorders**: 0.06 years
+3. **HALE loss due to depressive disorders**: 0.06 years
+
+The total HALE loss from mental health morbidity (0.13 + 0.06 + 0.06 = 0.25 years) effectively wiped out 80% of the positive contribution to HALE (0.15 years) by mortality decline from all NCDs combined during that period [Page 21].","[17, 20, 21]"
+Which three 'morbidity' causes in females aged 30+ effectively cancelled out their HALE advantage from lower heart disease and chronic lung disease in 2019?,"In 2019, the three morbidity causes in females aged 30 years and older that effectively cancelled out their HALE advantage from lower heart disease and chronic lung disease were:
+
+1. **Gynaecological diseases** (-0.71 years)
+2. **Breast cancer** (-0.22 years)
+3. **Maternal conditions** (-0.15 years)
+
+These conditions contributed to a total offset of 1.08 years, which reduced the HALE advantage associated with lower mortality from ischaemic heart disease and chronic obstructive pulmonary disease [Page 22].","[22, 24, 25]"
+"Looking at the 2019 and 2021 comparison for High-Income Countries (HICs), how did the HALE loss from drug use disorder morbidity change during the pandemic?","In high-income countries (HICs), the HALE loss from drug use disorder morbidity contributed negatively to the HALE gap compared to other income groups. Specifically, the loss attributed to drug use disorders was:
+
+- **2019**: The HALE loss from drug use disorders was -0.20 years compared to low-income countries, -0.20 years compared to lower-middle-income countries, and -0.19 years compared to upper-middle-income countries [Page 26].
+
+The text does not provide specific figures for the HALE loss from drug use disorder morbidity in 2021, but it indicates that the patterns generally continued into that year. Therefore, while the exact change in HALE loss from drug use disorder morbidity during the pandemic is not detailed, it suggests that the negative contributions persisted in 2021. 
+
+For a precise comparison, additional data from 2021 would be needed, which is not provided in the context.","[26, 13, 20]"
+Which WHO region requires the highest relative acceleration (2.4 times its 2000–2019 rate) to halve premature mortality by 2050?,The WHO region that requires the highest relative acceleration of 2.4 times its 2000–2019 rate to halve premature mortality by 2050 is the Region of the Americas [Page 29].,"[29, 28, 27]"
+Which two WHO regions together account for 79% of total global deaths due to unsafe WASH services according to Figure 2.5?,The two WHO regions that together account for 79% of total global deaths due to unsafe WASH services are the African Region and the South-East Asia Region [Page 38].,"[38, 48, 33]"
+"Beyond economic status, what maternal factor is identified as a persistent driver of immunization inequality, and what is the potential average DTP3 coverage improvement in LICs?","Beyond economic status, the maternal factor identified as a persistent driver of immunization inequality is the **education level of the mother**. 
+
+The potential average DTP3 coverage improvement in low-income countries (LICs) associated with eliminating economic-related inequality is **10 percentage points** [Page 14].","[14, 71, 70]"
+"Which bacterium is classified as a 'Critical' priority due to increasing AMR trends, and how many countries reported data for it in 2022 vs 2016?","The bacterium classified as a 'Critical' priority due to increasing antimicrobial resistance (AMR) trends is **Escherichia coli** resistant to third-generation cephalosporins. 
+
+In 2016, only **16 countries** reported data on E. coli resistance, while in 2022, this number increased to **85 countries** [Page 43].","[43, 58, 41]"
